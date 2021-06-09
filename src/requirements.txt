@@ -21,7 +21,7 @@ pycparser==2.18
 pyOpenSSL==17.5.0
 PySocks==1.6.7
 python-dateutil==2.6.1
-pip==9.0.1
+pip==19.2
 pytz==2017.3
 requests==2.18.4
 s3transfer==0.1.11
